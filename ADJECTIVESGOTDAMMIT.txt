@@ -271,18 +271,14 @@ distorted
 dizzy
 dopey
 doting
-double
 downright
-drab
 drafty
 dramatic
 dreary
 droopy
 dry
-dual
 dull
 dutiful
-each
 eager
 earnest
 early
@@ -293,7 +289,6 @@ edible
 educated
 elaborate
 elastic
-elated
 elderly
 electric
 elegant
