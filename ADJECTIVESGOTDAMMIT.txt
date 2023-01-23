@@ -1086,7 +1086,6 @@ untidy
 untimely
 untried
 untrue
-unused
 unusual
 unwelcome
 unwieldy
