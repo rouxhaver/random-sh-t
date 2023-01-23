@@ -71,7 +71,6 @@ bare
 barren
 basic
 belated
-beloved
 beneficial
 better
 bewitched
@@ -594,9 +593,6 @@ loose
 lopsided
 lost
 loud
-lovable
-lovely
-loving
 low
 loyal
 lucky
