@@ -367,7 +367,7 @@ local PlayerState = {} do
 		cameraFocus = Camera.Focus
 
 		mouseIconEnabled = UserInputService.MouseIconEnabled
-		UserInputService.MouseIconEnabled = false
+		--UserInputService.MouseIconEnabled = false
 
 		mouseBehavior = UserInputService.MouseBehavior
 		UserInputService.MouseBehavior = Enum.MouseBehavior.Default
