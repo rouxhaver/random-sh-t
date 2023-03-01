@@ -1,5 +1,5 @@
--- Figure = NewChar
---
+-- Figure = <character>
+-- loadstring(game:HttpGet('https://raw.githubusercontent.com/rouxhaver/random-sh-t/main/roblox%20animation%20script.lua'))()
 
 local Torso = Figure:WaitForChild("Torso")
 local RightShoulder = Torso:WaitForChild("Right Shoulder")
